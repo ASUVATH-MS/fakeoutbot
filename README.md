@@ -1,2 +1,2 @@
 # fakeoutbot
-A telegram to detect fake and spam messages .
+A telegram bot to detect fake and spam messages .
